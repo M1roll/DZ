@@ -122,7 +122,6 @@ int main() {
         }
         else {
             cout << "Error\n";
-            break;
         }
     }
     Clean(head);
